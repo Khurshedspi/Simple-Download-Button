@@ -4,14 +4,17 @@
   margin-right: auto;
   width: 50%;
   border-radius: 15px;
-  box-shadow: 15px 15px rgba(81, 214, 74, 0.278) ;
+  /* box-shadow: 15px 15px rgba(81, 214, 74, 0.278) ; */
   
 
 }
 
 #img{
-    height: 500px;
+    /* height: 500px; */
     background-image: url(/images/khurshed1.jpg);
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 10px;
     
 }
 #heading{
@@ -19,7 +22,7 @@
     font-size: 25px;
     font-family: monospace;
     color: #5dbea3;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 #btn{
     text-align: center;
